@@ -1,4 +1,4 @@
-# FastVideoRetargeting
+# Fast Video Retargeting Based on Seam Carving with Parental Labeling
 Implementation of the fast video retargeting method proposed in [this](https://arxiv.org/abs/1903.03180) paper. [OpenCV 3](https://opencv.org/) and [NumPY](https://www.numpy.org/) are required to run these code.
 
 **SeamCarverPL.py** contains the sinlge-image seam carving function **seamCarverVertical(img, nwidth)**. 
