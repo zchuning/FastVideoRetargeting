@@ -5,7 +5,7 @@ Implementation of the fast video retargeting method proposed in [this](https://a
 
 **SeamCarverPL.py** contains the sinlge-image seam carving function **seamCarverVertical(img, nwidth)**. 
 
-  * **img** is a numpy matrix encoding the cource image, which can be created via cv2.imread(). 
+  * **img** is a numpy array encoding the cource image, which can be created via cv2.imread(). 
   * **nwidth** is the target width after carving.
 
 **VideoRetargetingPL.py** contains the video retargeting function **videoRetarget(name, outn, a)**.  
